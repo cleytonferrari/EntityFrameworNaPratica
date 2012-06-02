@@ -1,19 +1,20 @@
-# Entity Framework Migrations na Pr·tica #
+# Entity Framework Migrations na Pr√°tica #
 
-Este projeto faz parte da SÈrie sobre Entity Framework Migrations na Pr·tica publicada no meu blog.
+Este projeto faz parte da S√©rie sobre Entity Framework Migrations na Pr√°tica publicada no meu blog.
 
-VocÍ pode acompanhar toda a sÈria acessando as seguintes partes:
-	Entity Framework Migrations na Pr·tica - Parte 1
-		link
+Voc√™ pode acompanhar toda a s√©rie acessando as seguintes partes:
+
+	Entity Framework Migrations na Pr√°tica - Parte 1
+		http://cleytonferrari.com/video-aula-entity-framework-migrations-na-pratica-parte-1/
 	
-	Entity Framework Migrations na Pr·tica - Parte 2
-		link
+	Entity Framework Migrations na Pr√°tica - Parte 2
+		http://cleytonferrari.com/video-aula-entity-framework-migrations-na-pratica-parte-2/
 
-	Entity Framework Migrations na Pr·tica - Parte 3
+	Entity Framework Migrations na Pr√°tica - Parte 3
+		http://cleytonferrari.com/video-aula-entity-framework-migrations-na-pratica-parte-3/
+		
+	Entity Framework Migrations na Pr√°tica - Parte 4
 		link
 		
-	Entity Framework Migrations na Pr·tica - Parte 4
-		link
-		
 
-Muito das idÈias aqui s„o criadas de forma did·ticas, sempre h· maneiras melhores e piores de fazer a mesma coisa.
+Muito das id√©ias aqui s√£o criadas de forma did√°ticas, sempre h√° maneiras melhores e piores de fazer a mesma coisa.
